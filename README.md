@@ -17,58 +17,22 @@ I'm a passionate software developer focused on building **modern, scalable, and 
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anikeath Nikhil Ekka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekkaa3118@gmail.com) 
 
-### Mobile Development
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
 
-* Flutter
-* Dart
-* Android
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anikeath67&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Backend
-
-* FastAPI
-* REST APIs
-* Python
-
-### Database
-
-* PostgreSQL
-* SQLite
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
-* Postman
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Anikeath67&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📱 Projects
-
-### 🏥 Smart Healthcare App
-
-A healthcare application built using **Flutter, FastAPI, PostgreSQL, and SQLite**, with features such as API integration, local data storage, authentication, and offline support.
-
-### 🛒 QuickKart
-
-A Flutter-based e-commerce application demonstrating **product management, REST API integration, cart functionality, state management, and error handling**.
-
-### 📌 Pinterest-Style Image App
-
-A Flutter application focused on browsing and displaying images with features such as **image caching, categories, search, and download functionality**.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 📫 Connect With Me
