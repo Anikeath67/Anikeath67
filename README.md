@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anikeath Nikhil Ekka
 
-### 🚀 Flutter Developer | Software Developer | MCA Student
+### 🚀 Flutter Developer | Software Developer 
 
 I'm a passionate software developer focused on building **modern, scalable, and user-friendly mobile applications**. I enjoy turning ideas into real-world applications and continuously learning new technologies.
 
