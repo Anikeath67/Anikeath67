@@ -35,8 +35,8 @@ I'm a passionate software developer focused on building **modern, scalable, and 
 
 ## 📫 Connect With Me
 
-* [![LinkedIn]: [Your LinkedIn](https://www.linkedin.com/in/anikeath-nikhil-ekka-3597b8239/)
-* ![email] : ekkaa3118@gmail.com
+* Linkedin : [Your LinkedIn](https://www.linkedin.com/in/anikeath-nikhil-ekka-3597b8239/)
+* email : ekkaa3118@gmail.com
 
 
 ---
